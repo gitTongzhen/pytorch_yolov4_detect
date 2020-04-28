@@ -52,7 +52,7 @@ if __name__ == '__main__':
     weightfile = "./yolov4_4000.weights"
     namesfile = "./data/voc.names"
     nms_thresh = 0.4
-    imgfile = "./test1.jpg"
+    imgfile = "./test.jpg"
     savename = "./predict.jpg"
     # 不使用GPU
     use_cuda = 0
