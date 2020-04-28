@@ -1,0 +1,6 @@
+ttest
+*.weights
+__pycache__
+.idea
+
+predictions.jpg
